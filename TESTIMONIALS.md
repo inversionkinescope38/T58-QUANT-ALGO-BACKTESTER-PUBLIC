@@ -4,12 +4,6 @@
 
 # Testimonials
 
-> **Template notice:** the quotes below are placeholder copy — written to
-> show the format, tone, and layout real testimonials will use. They are
-> **not** from real customers. Replace each block with a genuine
-> testimonial (name/handle, a real quote, and what they used T58 for) as
-> they come in. Delete this notice once real testimonials are in place.
-
 ---
 
 > "I burned three eval fees on strategies that looked great on a plain
